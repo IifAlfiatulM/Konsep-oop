@@ -9,3 +9,12 @@ Jika pada pemrograman prosedural : variabel, array dan fungsi terpisah, namun pa
 variabel, array dan fungsi disimpan kedalam satu tempat yaitu Class.
 Pada Class, variabel dan array disebut property / attribute, dan fungsi disebut method /
 behavior.
+
+OBJECT
+Dalam kehidupan, object merupakan segala sesuatu yang sifatnya konkrit maupun abstrak.
+Object konkrit adalah segala sesuatu yang nyata dan bisa dirasakan.
+Object abstrak adalah segala sesuatu yang ada bukan secara fisik dan bisa dirasakan.
+Pada PBO, Object adalah variabel yang merupakan hasil instansiasi (instance) / perwujudan / pembentukan / representasi dari Class.
+Jika class adalah blueprint / templatenya, maka object adalah instansiasi dari class tersebut. Dan object inilah yang akan digunakan.
+Satu object hanya hasil instansiasi dari satu class.
+
