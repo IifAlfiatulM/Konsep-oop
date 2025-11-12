@@ -1,3 +1,5 @@
 Konsep OOP
 1. Class & Object
 2. Atribut dan Method
+3. Constructor
+4 Setter Getter
