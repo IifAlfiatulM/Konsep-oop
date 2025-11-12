@@ -10,7 +10,7 @@ variabel, array dan fungsi disimpan kedalam satu tempat yaitu Class.
 Pada Class, variabel dan array disebut property / attribute, dan fungsi disebut method /
 behavior.
 
-OBJECT
+OBJECT---
 Dalam kehidupan, object merupakan segala sesuatu yang sifatnya konkrit maupun abstrak.
 Object konkrit adalah segala sesuatu yang nyata dan bisa dirasakan.
 Object abstrak adalah segala sesuatu yang ada bukan secara fisik dan bisa dirasakan.
