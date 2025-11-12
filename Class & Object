@@ -1,0 +1,11 @@
+Class & Object
+
+Class adalah cetak biru / blueprint / template dari object.
+Class hanya dipakai untuk membuat kerangka dasar yang instansiasi-nya menggunakan object.
+Artinya, class yang dibuat nanti akan mendefinisikan object.
+Satu class bisa mendefinisikan banyak object.
+Class dapat menyimpan data (property /attribute) dan perilaku(method /behavior).
+Jika pada pemrograman prosedural : variabel, array dan fungsi terpisah, namun pada PBO
+variabel, array dan fungsi disimpan kedalam satu tempat yaitu Class.
+Pada Class, variabel dan array disebut property / attribute, dan fungsi disebut method /
+behavior.
