@@ -3,3 +3,5 @@ Konsep OOP
 2. Atribut dan Method
 3. Constructor
 4 Setter Getter
+5. Inheritance
+6. overriding& overloading
